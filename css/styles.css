@@ -280,3 +280,62 @@ margin-right: auto;
 display: block;
 float: none;
 }
+
+.contact_sec{
+width: 100%;
+float: left;
+background-size: cover;
+background-repeat: no-repeat;
+padding: 200px 0px;
+}
+.contact_sec h3{
+    width: 100%;
+    text-align: center;
+    color: white;
+    font-family: roboto;
+    font-weight: bold;
+    text-decoration: none;
+}
+.box{
+    width: 100%;
+    background-color: whitesmoke;
+    margin-left: auto;
+    margin-right: auto;
+    float: none;
+    margin-bottom: 10px;
+    display: block;
+    border-radius: 15px;
+    text-decoration: none;
+      padding: 10px;
+}
+
+.box img{
+    width: 70px;
+    height: auto;
+    border-radius: 10px;
+}
+.box a{
+    width: 100%;
+    padding: 15px;
+    text-decoration: none;
+    color: black;
+}
+.whatsappbtn {
+    width: 100%;
+    background-color: #25D366;
+    border-radius: 15px;
+    float: left;
+    align-items: center;
+}
+.whatsappbtn img {
+    width: 70px;
+    float: left;
+}
+.whatsappbtn h5 {
+    font-size: 25px;
+    padding: 20px 0px 0px 0px;
+    font-weight: bold;
+    color: white;
+    width: 100%;
+    text-align: left;
+}
