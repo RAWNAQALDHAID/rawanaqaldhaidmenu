@@ -30,7 +30,7 @@ logo img {
     float: left;
     width: 100%;
     padding: 28px 0px 28px 0px;
-    background-color: #26110D;
+    background-color: #E8D3B9;
 }
 .footnav {
     float: left;
@@ -242,7 +242,8 @@ font-weight: bold;
     width: 100%;
     float: left;
     padding: 0px 0px 0px 0px;
-    background-color: #E8D3B9;
+    background-size: cover;
+    background-repeat: no-repeat;
 }
 .welcome h1{
     text-align: center;
@@ -256,7 +257,6 @@ font-weight: bold;
     width: 100%;
     float: left;
     padding: 20px 0px 70px 0px;
-    background-color: #E8D3B9;
 }
 .circle{
     width: 100%;
@@ -272,7 +272,7 @@ font-weight: bold;
     padding: 200px 0px 0px 0px;
 }
 .welcome img{
-    width: 70px;
+    width: 150px;
     height: auto;
     border-radius: 16px;
 margin-left: auto;
